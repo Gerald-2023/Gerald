@@ -1,6 +1,30 @@
+# MEMBRES DU GROUPE
+- BOUDIOBO Guérin 
+- ETSINDA Eli 
+- MOULONGA Nicodeme
+- MOUNANGA Paul-Gerald
+- NDOUNGOUBADI Marjeannia
+
 # Effectifs salariés et masse salariale trimestriels du secteur privé, par zone d'emploi.
 
 Les effectifs salariés et la masse salariale trimestriels du secteur privé, par zone d'emploi, sont des données statistiques qui fournissent des informations sur l'emploi et la rémunération dans le secteur privé français
 
 # Objectif 
-L'objectif est de faire une analyse sur 
+L'objectif est de faire une analyse sur la situation de la masse salariale et les effectifs salariés depuis les années 1998 jusqu'en 2023 dans le secteur privé, selon les differents secteur d'activité que l'on retrouve. voir comportement de la masse salariale et des effectif, mais egalement voir les secteurs d'activité les plus rentable.
+
+### Déroulement
+Cette annalyse s'est effectuer a l'aide de deux bases de données que nous avons fusionné pour une meilleure analyse :
+ database1 : https://www.data.gouv.fr/fr/datasets/effectifs-salaries-et-masse-salariale-trimestriels-du-secteur-prive-par-zone-demploi/#/information 
+
+ ### Outils
+ Il est conseillé d'utiliser un IDE JupytherNotbook, capable de générer des graphes  à partir du code avec les modules suivants :Numpy,pandas,matplotlib,seaborn
+
+## Partie 1 :  Effectif salarial par secteur
+
+## Partie 2:  Masse salarial annuel, mensuelle par secteur
+
+## Partie 3:  Zone d’emploie les plus convoites 
+
+## Partie 4:  Secteurs d’activés les plus convoités
+
+
