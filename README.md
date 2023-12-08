@@ -1,9 +1,9 @@
 # MEMBRES DU GROUPE
-- BOUDIOBO Guérin 
-- ETSINDA Eli 
-- MOULONGA Nicodeme
+- BOUDIOBO Guérin Waldrin
+- ETSINDA Eli-Franck
+- MOULONGA TSAMBA Nicodeme KAMEEN
 - MOUNANGA Paul-Gerald
-- NDOUNGOUBADI Marjeannia
+- NGOMBI NDOUNGOUBADI Jocelyne Marjeannia
 
 # Effectifs salariés et masse salariale trimestriels du secteur privé, par zone d'emploi.
 
@@ -19,9 +19,9 @@ Cette annalyse s'est effectuer a l'aide de deux bases de données que nous avons
  ### Outils
  Il est conseillé d'utiliser un IDE JupytherNotbook, capable de générer des graphes  à partir du code avec les modules suivants :Numpy,pandas,matplotlib,seaborn
 
-## Partie 1 :  Effectif salarial par secteur
+## Partie 1 :  Effectif salarial par secteur d'activité
 
-## Partie 2:  Masse salarial annuel, mensuelle par secteur
+## Partie 2:  Masse salarial annuel, mensuelle par secteur d'activité
 
 ## Partie 3:  Zone d’emploie les plus convoites 
 
