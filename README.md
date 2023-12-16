@@ -19,12 +19,14 @@ Cette annalyse s'est effectuer a l'aide de deux bases de données que nous avons
  ### Outils
  Il est conseillé d'utiliser un IDE JupytherNotbook, capable de générer des graphes  à partir du code avec les modules suivants :Numpy,pandas,matplotlib,seaborn
 
-## Partie 1 :  Effectif salarial par secteur d'activité
+## Partie 1 :  Importatation, Exploitation et PreTraitement des données
 
-## Partie 2:  Masse salarial annuel, mensuelle par secteur d'activité
+## Partie 2 :  Effectif salarial par secteur d'activité
 
-## Partie 3:  Zone d’emploie les plus convoites 
+## Partie 3:  Masse salarial annuel, mensuelle par secteur d'activité
 
-## Partie 4:  Secteurs d’activés les plus convoités
+## Partie 4:  Zone d’emploie les plus convoites 
+
+## Partie 5:  Secteurs d’activés les plus convoités
 
 
