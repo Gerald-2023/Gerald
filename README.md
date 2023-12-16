@@ -14,8 +14,8 @@ L'objectif est de faire une analyse sur la situation de la masse salariale et le
 
 ### Déroulement
 Cette annalyse s'est effectuer a l'aide de deux bases de données que nous avons fusionné pour une meilleure analyse :
- database1 : https://www.data.gouv.fr/fr/datasets/effectifs-salaries-et-masse-salariale-trimestriels-du-secteur-prive-par-zone-demploi/#/information 
-
+ database : https://www.data.gouv.fr/fr/datasets/effectifs-salaries-et-masse-salariale-trimestriels-du-secteur-prive-par-zone-demploi/#/information 
+ Que nous avons fusioné afin de faire une analyse des données recolté.
  ### Outils
  Il est conseillé d'utiliser un IDE JupytherNotbook, capable de générer des graphes  à partir du code avec les modules suivants :Numpy,pandas,matplotlib,seaborn
 
@@ -28,5 +28,11 @@ Cette annalyse s'est effectuer a l'aide de deux bases de données que nous avons
 ## Partie 4:  Zone d’emploie les plus convoites 
 
 ## Partie 5:  Secteurs d’activés les plus convoités
+
+## lien de la video 
+Vous trouverez dans ce lien, notre presentation via une video de notre travaille.
+
+https://www.loom.com/share/96ddbdfce0e249acbbc195ef14e53fce?sid=d94411be-d41f-40cf-9097-56d6eed3f843
+
 
 
